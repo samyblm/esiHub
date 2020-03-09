@@ -1,0 +1,11 @@
+{
+  "name": "esihub",
+  "version": "1.0.0",
+  "description": "is app web app dedicated for ESI SBA students ,to share their pluridisciplinary projects and show their skills .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aymen Zitouni , Kermali Abd EL Fetah , Samy Belambri , Benkablia Younes , AitAbdElKaoui Karina , Mesmoudi Med Amine",
+  "license": "ISC"
+}
